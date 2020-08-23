@@ -1,5 +1,5 @@
 /**
- * Author: Mason Piva
+ * Author: Mason C. Piva
  * Date: 2020
  *
  * A simple hello world program
